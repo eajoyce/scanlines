@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 .DS_Store
+=======
+.pio
+.vscode
+.DS_Store
+>>>>>>> 1060a06
